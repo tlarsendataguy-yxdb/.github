@@ -20,7 +20,7 @@ YXDB is a superior alternative to the popular CSV format for several reasons:
 
 Libraries have been created for 4 major platforms/languages:
 
-* [yxdb-go](https://github.com/tlarsendataguy-yxdb/yxdb-go), written in Go
-* [yxdb-java](https://github.com/tlarsendataguy-yxdb/yxdb-java), written in Java for JVM
-* [yxdb-net](https://github.com/tlarsendataguy-yxdb/yxdb-net), written in C# for .NET
-* [yxdb-py](https://github.com/tlarsendataguy-yxdb/yxdb-py), written in Python
+* [yxdb-go](https://github.com/tlarsendataguy-yxdb/yxdb-go), written in Go. Install using `go get github.com/tlarsendataguy-yxdb/yxdb-go`
+* [yxdb-java](https://github.com/tlarsendataguy-yxdb/yxdb-java), written in Java for JVM. JARs are available as releases in the linked repository.
+* [yxdb-net](https://github.com/tlarsendataguy-yxdb/yxdb-net), written in C# for .NET. Install from [NuGet](https://www.nuget.org/packages/yxdb)
+* [yxdb-py](https://github.com/tlarsendataguy-yxdb/yxdb-py), written in Python. Install from [PyPI](https://pypi.org/project/yxdb/)
